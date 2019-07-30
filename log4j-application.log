@@ -1,0 +1,24 @@
+2019-07-31 00:51:53 DEBUG LoggerExample:18 - This is debug:ramasamy
+2019-07-31 00:51:53 INFO  LoggerExample:22 - this is info:ramasamy
+2019-07-31 00:51:53 WARN  LoggerExample:25 - this is warnramasamy
+2019-07-31 00:51:53 ERROR LoggerExample:26 - this is errorramasamy
+2019-07-31 00:51:53 ERROR LoggerExample:27 - this is fatalramasamy
+2019-07-31 00:52:10 DEBUG LoggerExample:18 - This is debug:ramasamy
+2019-07-31 00:52:10 INFO  LoggerExample:22 - this is info:ramasamy
+2019-07-31 00:52:10 WARN  LoggerExample:25 - this is warn:ramasamy
+2019-07-31 00:52:10 ERROR LoggerExample:26 - this is error:ramasamy
+2019-07-31 00:52:10 ERROR LoggerExample:27 - this is fatal:ramasamy
+2019-07-31 00:52:39 DEBUG LoggerExample:18 - This is debug:ramasamy
+2019-07-31 00:52:39 INFO  LoggerExample:22 - This is info:ramasamy
+2019-07-31 00:52:39 WARN  LoggerExample:25 - This is warn:ramasamy
+2019-07-31 00:52:39 ERROR LoggerExample:26 - This is error:ramasamy
+2019-07-31 00:52:39 ERROR LoggerExample:27 - This is fatal:ramasamy
+2019-07-31 00:54:59 DEBUG LoggerExample:18 - This is debug:ramasamy
+2019-07-31 00:54:59 INFO  LoggerExample:22 - This is info:ramasamy
+2019-07-31 00:54:59 WARN  LoggerExample:25 - This is warn:ramasamy
+2019-07-31 00:54:59 ERROR LoggerExample:26 - This is error:ramasamy
+2019-07-31 00:54:59 FATAL LoggerExample:27 - This is fatal:ramasamy
+2019-07-31 01:02:04 ERROR LoggerRumtimeException:19 - sorry something went wrongjava.lang.ArithmeticException: / by zero
+2019-07-31 01:02:55 ERROR LoggerRumtimeException:19 - sorry something went wrongjava.lang.ArithmeticException: / by zero
+2019-07-31 01:03:48 ERROR LoggerRumtimeException:20 - sorry something went wrong!java.lang.ArithmeticException: / by zero
+2019-07-31 01:04:41 ERROR LoggerRumtimeException:19 - sorry something went wrong!java.lang.ArithmeticException: / by zero
